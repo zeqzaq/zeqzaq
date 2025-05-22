@@ -32,7 +32,7 @@
     </td>
     <!-- Imagen del Dragón -->
     <td align="center" width="60%">
-      <img src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg" alt="Dragon Anime" width="420"/>
+      <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="Dragon Anime" width="420"/>
     </td>
   </tr>
 </table>
