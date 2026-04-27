@@ -81,7 +81,7 @@
 </h3>
 
 <div align="center" style="margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/cristian-marquez-67333b313/" target="_blank" style="margin: 0 10px;">
+  <a href="https://www.linkedin.com/in/cristian-marquez-ar/" target="_blank" style="margin: 0 10px;">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
   </a>
   <a href="https://github.com/zeqzaq" target="_blank" style="margin: 0 10px;">
