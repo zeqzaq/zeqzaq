@@ -1,97 +1,94 @@
-<!-- Encabezado con dragon y perfil -->
-<!-- Título con margen antes de la tabla -->
-
-
-<h1 align="center"><b>Hola Soy Cristian </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00A86B&height=200&section=header&text=Cristian%20Marquez&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20·%20Backend%20·%20Automation&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+</p>
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%2300A86B&size=28&center=true&vCenter=true&width=700&height=80&lines=✨+¡Hola+y+bienvenido!+💚;🚀+Desarrollador+Backend;🎓+Apasionado+por+la+arquitectura+de+software;🔍+Optimización+y+rendimiento;📖+Aprendiz+activo+y+curioso;💡+Me+encanta+resolver+problemas+complejos!">
-</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00A86B&center=true&vCenter=true&width=600&lines=Desarrollador+Backend+%F0%9F%9A%80;Automatizaci%C3%B3n+con+Selenium+%26+Python+%F0%9F%A4%96;Arquitectura+de+software+%F0%9F%A7%A0;Siempre+aprendiendo+algo+nuevo+%F0%9F%93%9A" alt="Typing SVG"/>
+  </a>
+</p>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Bogotá,_Colombia-0d1117?style=for-the-badge&labelColor=0d1117&color=161b22"/>
+  <img src="https://img.shields.io/badge/💼_ACTIVE_PROCESS_S.A.S-0d1117?style=for-the-badge&labelColor=0d1117&color=161b22"/>
+  <img src="https://komarev.com/ghpvc/?username=zeqzaq&style=for-the-badge&color=00A86B&label=VISITAS" alt="Profile views"/>
 </p>
 
 ---
 
-<table width="100%">
+<table>
   <tr>
-    <!-- Perfil y descripción -->
-    <td align="left" valign="top" width="60%">
-      <h3 align="center">🧑‍💻 Software Engineer</h3>
-      <p>
-        🎯 <strong>Sobre mí:</strong><br>
-        Me apasiona el desarrollo de software, la automatización y el diseño de soluciones inteligentes.<br>
-        - 💡 Actualmente trabajando en: <em>automatizaciones inteligentes con Selenium en Python para entornos web.</em><br>
-        - 🌱 Aprendiendo: <em>inteligencia artificial, desarrollo de videojuegos con Godot, frameworks frontend como Angular y manejo de bases de datos relacionales y no relacionales.</em><br>
-        - ⚡ Intereses: <em>anime, videojuegos, machine learning, desarrollo full stack y automatización de procesos.</em><br>
-        - 💬 Contáctame si quieres hablar sobre: <em>proyectos de software, bots con Selenium, IA aplicada o colaboración en algo épico.</em><br>
-        - 📫 Email: <em>cristianarcilamarques123@gmail.com</em>
-      </p>
+    <td width="58%" valign="top">
+
+### 🧑‍💻 Sobre mí
+
+Ingeniero de software apasionado por el **backend**, la **automatización** y el diseño de soluciones inteligentes.
+
+- 🔭 Trabajando en **automatizaciones web con Selenium + Python**
+- 🌱 Aprendiendo **IA**, **Godot**, **Angular** y bases de datos **SQL / NoSQL**
+- ⚡ Intereses: anime, videojuegos, machine learning y full stack
+- 💬 Háblame de: bots, IA aplicada o colaborar en algo épico
+- 📫 **cristianarcilamarques123@gmail.com**
+
     </td>
-    <!-- Imagen del Dragón -->
-    <td align="center" width="60%">
-      <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" alt="Dragon Anime" width="420"/>
+    <td width="42%" align="center">
+      <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" alt="Dragon" width="100%"/>
     </td>
   </tr>
 </table>
 
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=angular,mysql,mongodb,selenium,godot,git,github,vscode&theme=dark" />
+</p>
 
 ---
 
-<div style="margin-top: 100px; margin-right: ">
-  <h3>🧠 Technologies & Tools</h3>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" style="margin-right:10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" style="margin-right:10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" style="margin-right:10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" alt="Godot" style="margin-right:10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular" style="margin-right:10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" style="margin-right:10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" style="margin-right:10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" style="margin-right:10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" alt="Selenium" style="margin-right:10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio" style="margin-right:10px;"/>
-  </p>
-</div>
+### 🚀 Proyectos destacados
+
+<p align="center">
+  <a href="https://github.com/zeqzaq/Proyecto_Mundial_2026">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeqzaq&repo=Proyecto_Mundial_2026&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00A86B&icon_color=00A86B" />
+  </a>
+  <a href="https://github.com/zeqzaq/memory-match-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeqzaq&repo=memory-match-game&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00A86B&icon_color=00A86B" />
+  </a>
+  <a href="https://github.com/zeqzaq/Ruleta_Probabilidad">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeqzaq&repo=Ruleta_Probabilidad&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00A86B&icon_color=00A86B" />
+  </a>
+  <a href="https://github.com/zeqzaq/CalculadoraApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeqzaq&repo=CalculadoraApp&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00A86B&icon_color=00A86B" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeqzaq&theme=tokyonight&show_icons=true&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeqzaq&theme=tokyonight&hide_border=false" width="50%" />
-  <br>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zeqzaq&layout=compact&theme=tokyonight&langs_count=10" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zeqzaq&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00A86B&icon_color=00A86B" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeqzaq&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00A86B" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zeqzaq&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00A86B&fire=00A86B&currStreakLabel=00A86B" />
 </p>
 
 ---
 
-##🏆 GitHub Achievements
+### 🤝 Conecta conmigo
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zeqzaq&theme=tokyonight&title=Stars,Commits,Followers,Repositories,PullRequest,Issues&margin-w=15&no-frame=true" />
+  <a href="https://www.linkedin.com/in/cristian-marquez-ar/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="mailto:cristianarcilamarques123@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+  <a href="https://github.com/zeqzaq"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<!------Contacto------>
-<h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
-  Connect with me 🤝
-</h3>
-
-<div align="center" style="margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/cristian-marquez-ar/" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/zeqzaq" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
-  </a>
-</div>
-
-
----
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A86B,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
 </p>
