@@ -33,10 +33,10 @@ hablemos_de:    bots, IA aplicada, colaborar en algo épico
 email:          cristianarcilamarques123@gmail.com
 ```
 
-    </td>
-    <td width="42%" align="center">
-      <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" alt="Dragon" width="100%"/>
-    </td>
+</td>
+<td width="42%" align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="100%"/>
+</td>
   </tr>
 </table>
 
