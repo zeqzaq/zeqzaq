@@ -1,37 +1,34 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:000000&height=220&section=header&text=CRISTIAN%20MARQUEZ&fontSize=52&fontColor=E10600&fontAlignY=42&desc=%E2%9F%A8%20software%20engineer%20%2F%2F%20backend%20%2F%2F%20automation%20%E2%9F%A9&descAlignY=64&descSize=16&stroke=E10600&strokeWidth=1&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00A86B&height=200&section=header&text=Cristian%20Marquez&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20·%20Backend%20·%20Automation&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&color=E10600&center=true&vCenter=true&width=650&lines=%3E+Desarrollador+Backend_;%3E+Automatizaci%C3%B3n+con+Selenium+%2B+Python_;%3E+Arquitectura+de+software_;%3E+Siempre+aprendiendo_" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00A86B&center=true&vCenter=true&width=600&lines=Desarrollador+Backend+%F0%9F%9A%80;Automatizaci%C3%B3n+con+Selenium+%26+Python+%F0%9F%A4%96;Arquitectura+de+software+%F0%9F%A7%A0;Siempre+aprendiendo+algo+nuevo+%F0%9F%93%9A" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LOCATION-BOGOTÁ,_CO-000000?style=for-the-badge&labelColor=000000&color=0a0a0a"/>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-E10600?style=for-the-badge&labelColor=000000"/>
-  <img src="https://komarev.com/ghpvc/?username=zeqzaq&style=for-the-badge&color=E10600&label=VISITAS" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/📍_Bogotá,_Colombia-0d1117?style=for-the-badge&labelColor=0d1117&color=161b22"/>
+  <img src="https://komarev.com/ghpvc/?username=zeqzaq&style=for-the-badge&color=00A86B&label=VISITAS" alt="Profile views"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E10600&height=2&section=header" width="100%"/>
+---
 
 <table>
   <tr>
     <td width="58%" valign="top">
 
-### `> whoami`
+### 🧑‍💻 Sobre mí
 
-Ingeniero de software enfocado en **backend**, **automatización** y diseño de soluciones inteligentes.
+Ingeniero de software apasionado por el **backend**, la **automatización** y el diseño de soluciones inteligentes.
 
-```yaml
-trabajando_en:  Automatizaciones web con Selenium + Python
-aprendiendo:    [IA, Godot, Angular, SQL, NoSQL]
-intereses:      [anime, videojuegos, machine learning, full stack]
-hablemos_de:    bots, IA aplicada, colaborar en algo épico
-email:          cristianarcilamarques123@gmail.com
-```
+- 🔭 Trabajando en **automatizaciones web con Selenium + Python**
+- 🌱 Aprendiendo **IA**, **Godot**, **Angular** y bases de datos **SQL / NoSQL**
+- ⚡ Intereses: anime, videojuegos, machine learning y full stack
+- 💬 Háblame de: bots, IA aplicada o colaborar en algo épico
+- 📫 **cristianarcilamarques123@gmail.com**
 
 </td>
 <td width="42%" align="center">
@@ -40,51 +37,57 @@ email:          cristianarcilamarques123@gmail.com
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E10600&height=2&section=header" width="100%"/>
+---
 
-### `> tech_stack`
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=angular,mysql,mongodb,selenium,godot,git,github,vscode&theme=dark" />
 </p>
 
-### `> proyectos --destacados`
+---
+
+### 🚀 Proyectos destacados
 
 <p align="center">
   <a href="https://github.com/zeqzaq/Proyecto_Mundial_2026">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeqzaq&repo=Proyecto_Mundial_2026&bg_color=000000&title_color=E10600&icon_color=E10600&text_color=c9d1d9&border_color=E10600&border_radius=0" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeqzaq&repo=Proyecto_Mundial_2026&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00A86B&icon_color=00A86B" />
   </a>
   <a href="https://github.com/zeqzaq/memory-match-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeqzaq&repo=memory-match-game&bg_color=000000&title_color=E10600&icon_color=E10600&text_color=c9d1d9&border_color=E10600&border_radius=0" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeqzaq&repo=memory-match-game&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00A86B&icon_color=00A86B" />
   </a>
   <a href="https://github.com/zeqzaq/Ruleta_Probabilidad">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeqzaq&repo=Ruleta_Probabilidad&bg_color=000000&title_color=E10600&icon_color=E10600&text_color=c9d1d9&border_color=E10600&border_radius=0" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeqzaq&repo=Ruleta_Probabilidad&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00A86B&icon_color=00A86B" />
   </a>
   <a href="https://github.com/zeqzaq/CalculadoraApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeqzaq&repo=CalculadoraApp&bg_color=000000&title_color=E10600&icon_color=E10600&text_color=c9d1d9&border_color=E10600&border_radius=0" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeqzaq&repo=CalculadoraApp&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00A86B&icon_color=00A86B" />
   </a>
 </p>
 
-### `> stats`
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeqzaq&show_icons=true&count_private=true&bg_color=000000&title_color=E10600&icon_color=E10600&text_color=c9d1d9&border_color=E10600&border_radius=0" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeqzaq&layout=compact&langs_count=8&bg_color=000000&title_color=E10600&text_color=c9d1d9&border_color=E10600&border_radius=0" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zeqzaq&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00A86B&icon_color=00A86B" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeqzaq&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00A86B" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zeqzaq&background=000000&border=E10600&stroke=E10600&ring=E10600&fire=E10600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E10600&sideLabels=E10600&dates=8b949e&border_radius=0" />
+  <img src="https://streak-stats.demolab.com?user=zeqzaq&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00A86B&fire=00A86B&currStreakLabel=00A86B" />
 </p>
 
-### `> contact`
+---
+
+### 🤝 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cristian-marquez-ar/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E10600"/></a>
-  <a href="mailto:cristianarcilamarques123@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=E10600"/></a>
-  <a href="https://github.com/zeqzaq"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E10600"/></a>
+  <a href="https://www.linkedin.com/in/cristian-marquez-ar/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="mailto:cristianarcilamarques123@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+  <a href="https://github.com/zeqzaq"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:000000&height=120&section=footer&stroke=E10600&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A86B,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
 </p>
